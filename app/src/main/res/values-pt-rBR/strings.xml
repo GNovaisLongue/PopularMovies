@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="action_settings">Configurações</string>
+    <string name="connect_error">Não foi possível conectar ao servidor</string>
+    <string name="invalid_url">URL inválida</string>
+    <string name="movie_description">Descrição do Filme</string>
+    <string name="movie_image">Imagem do Filme</string>
+    <string name="movie_name">Título do Filme</string>
+    <string name="read_error">Não foi possível ler os dados</string>
+    <string name="update">Atualizar</string>
+    <string name="loading">Carregando</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key" translatable="false">cde785b674023a2657bba91e5c514ed2</string>
+    <string name="url" translatable="false">api.themoviedb.org\/3\/movie\/popular\?api_key=</string>
+
+</resources>
